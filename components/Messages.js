@@ -4,7 +4,7 @@ import MESSAGES from '../data/messages';
 import Message from './Message';
 import Link from 'next/link';
 
-const MESSAGE_DELAY = 200;
+const MESSAGE_DELAY = 2400;
 
 export class Messages extends Component {
   constructor(props) {
