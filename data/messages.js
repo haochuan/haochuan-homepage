@@ -1,11 +1,11 @@
 export default [
   {
     status: 'loading',
-    width: '5.8rem',
+    width: '4.4rem',
     data: [
       {
         type: 'text',
-        content: 'Hey there 👋',
+        content: 'Hey there',
       },
     ],
   },
