@@ -49,15 +49,6 @@ export default [
       },
       {
         type: 'link',
-        content: 'my blog',
-        url: 'https://blog.haochuan.io',
-      },
-      {
-        type: 'text',
-        content: ' and in ',
-      },
-      {
-        type: 'link',
         content: 'medium',
         url: 'https://medium.com/@haochuan',
       },
