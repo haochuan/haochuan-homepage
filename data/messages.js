@@ -41,7 +41,7 @@ export default [
   },
   {
     status: 'hidden',
-    width: '17.6rem',
+    width: '10.5rem',
     data: [
       {
         type: 'text',
